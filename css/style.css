@@ -1,0 +1,76 @@
+
+
+body {
+  text-align: center;
+  background-color: gray;
+  font-family: 'Lobster', cursive;
+  align-items: center;
+}
+
+#result {
+  border-style: solid;
+  text-align: center;
+  background-color: lime;
+  display: none;
+  height:50%;
+  margin-left: 30em;
+  margin-right: 30em;
+
+}
+
+#myTable {
+  font-size: 20px;
+  align-items: right;
+  text-align: center;
+  margin-left: 0px;
+}
+
+#head {
+  font-size: 50px;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#myAssignment {
+  font-size: 50px;
+}
+
+#myAnswer {
+  font-size: 50px;
+  width: 90px;
+}
+
+#wrapper {
+  display: none;
+  border-style: solid;
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+  padding: 20px;
+  border-width: thick;
+  width: 30em;
+  margin-top: 3em;
+  height: 40%;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+#button {
+background-color: lime;
+font-size: 10em;
+align-items: center;
+margin-top: 2em;
+font-family: 'Lobster', cursive;
+}
+
+#restart {
+background-color: yellow;
+font-size: 5em;
+align-items: center;
+font-family: 'Lobster', cursive;
+display: none;
+}
